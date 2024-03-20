@@ -1,6 +1,8 @@
 from django.http import HttpResponse, HttpResponseRedirect
 from django.shortcuts import get_object_or_404, render
 from django.urls import reverse
+from django.template import loader
+from django.http import Http404
 
 from .models import Choice, Question
 
@@ -15,10 +17,7 @@ def index(request):
 
 
 def detail(request, question_id):
-    try:
-        question = Question.objects.get(pk=question_id)
-    except Question.DoesNotExist:
-        raise Http404("Question does not exist")
+    question = Question.objects.get(pk=question_id)
     return render(request, 'polls/detail.html', {'question': question})
 
 def results(request, question_id):
