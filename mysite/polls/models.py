@@ -22,3 +22,6 @@ class Choice(models.Model):
 
     def __srt__(self):
         return self.choice_text
+    
+
+
