@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7baed185-ec34-44e3-b342-505280fa4518" name="Changes" comment="ate aula passada">
-      <change afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/polls/static/polls/images/estacio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/polls/static/polls/images/solo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/polls/static/polls/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/env/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/env/pyvenv.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/polls/templates/polls/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,15 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/99463199349&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\99463199349\PycharmProjects\pythonProject\mysite\polls\static\polls\images" />
+      <recent name="C:\Users\99463199349\PycharmProjects\pythonProject\mysite\polls" />
+      <recent name="C:\Users\99463199349\PycharmProjects\pythonProject\mysite\polls\templates" />
+      <recent name="C:\Users\99463199349\PycharmProjects\pythonProject\mysite\polls\static\polls" />
+      <recent name="C:\Users\99463199349\PycharmProjects\pythonProject\mysite\polls\static" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
